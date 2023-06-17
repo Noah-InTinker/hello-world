@@ -1,0 +1,66 @@
+h1{
+    margin-left: 200px;
+    font-size: 70px;
+}
+
+h1, p{
+    margin-left: 100px;
+}
+
+h1 {
+    font-size: 70px;
+}
+
+p {
+    font-size: 40pxs;
+}
+
+span {
+    color: orange;
+}
+
+/*styles.css*/
+
+h1, p {
+    margin-left: 100px;
+}
+
+h1 {
+    font-size: 70;
+}
+
+p {
+    font-size: 40;
+}
+
+span {
+    color: orange;
+}
+
+a {
+    text-decoration: none;
+}
+
+/* Navigation bar */
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: lightgreen;
+}
+
+nav ul li {
+    border: 1px solid lightgreen;
+    padding: 10px;
+    list-style-type: none;
+    display: inline;
+}
+
+
+
+/* Images */
+img {
+    height: 300;
+    width: 450;
+}
